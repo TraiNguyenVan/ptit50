@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "TÍNH TỔNG 1 ĐẾN N",
+    "start_line": 1,
+    "end_line": 23
+  },
+  {
+    "id": 2,
+    "title": "CHỮ HOA – CHỮ THƯỜNG",
+    "start_line": 24,
+    "end_line": 40
+  },
+  {
+    "id": 3,
+    "title": "TÍNH TỔNG GIAI THỪA",
+    "start_line": 41,
+    "end_line": 53
+  },
+  {
+    "id": 4,
+    "title": "CÂN BẰNG CHẴN LẺ",
+    "start_line": 54,
+    "end_line": 75
+  },
+  {
+    "id": 5,
+    "title": "SỐ MAY MẮN",
+    "start_line": 76,
+    "end_line": 100
+  },
+  {
+    "id": 6,
+    "title": "LIỆT KÊ SỐ NGUYÊN TỐ - 1",
+    "start_line": 101,
+    "end_line": 114
+  },
+  {
+    "id": 7,
+    "title": "ƯỚC SỐ NGUYÊN TỐ",
+    "start_line": 115,
+    "end_line": 137
+  },
+  {
+    "id": 8,
+    "title": "LIỆT KÊ SỐ CÓ BA ƯỚC SỐ",
+    "start_line": 138,
+    "end_line": 162
+  },
+  {
+    "id": 9,
+    "title": "CHÊNH LỆCH NHỎ NHẤT",
+    "start_line": 163,
+    "end_line": 194
+  },
+  {
+    "id": 10,
+    "title": "SỐ NHỎ NHẤT CHƯA XUẤT HIỆN",
+    "start_line": 195,
+    "end_line": 222
+  },
+  {
+    "id": 11,
+    "title": "QUAY VÒNG DÃY SỐ 1",
+    "start_line": 223,
+    "end_line": 250
+  },
+  {
+    "id": 12,
+    "title": "BIẾN ĐỔI NHỊ PHÂN",
+    "start_line": 251,
+    "end_line": 309
+  },
+  {
+    "id": 13,
+    "title": "BIÊN CỦA MA TRẬN",
+    "start_line": 310,
+    "end_line": 345
+  },
+  {
+    "id": 14,
+    "title": "LIỆT KÊ SỐ KHÁC NHAU",
+    "start_line": 346,
+    "end_line": 362
+  },
+  {
+    "id": 15,
+    "title": "ĐẾM SỐ PHẦN TỬ LẶP LẠI",
+    "start_line": 363,
+    "end_line": 394
+  },
+  {
+    "id": 16,
+    "title": "NHỎ NHẤT - LỚN NHẤT",
+    "start_line": 395,
+    "end_line": 408
+  },
+  {
+    "id": 17,
+    "title": "ĐẦU CUỐI GIỐNG NHAU",
+    "start_line": 409,
+    "end_line": 432
+  },
+  {
+    "id": 18,
+    "title": "LOẠI BỎ NGUYÊN ÂM",
+    "start_line": 433,
+    "end_line": 449
+  },
+  {
+    "id": 19,
+    "title": "SẮP XẾP CHỮ SỐ",
+    "start_line": 450,
+    "end_line": 478
+  },
+  {
+    "id": 20,
+    "title": "CẤU TRÚC THÍ SINH",
+    "start_line": 479,
+    "end_line": 501
+  },
+  {
+    "id": 21,
+    "title": "CẤU TRÚC NHÂN VIÊN",
+    "start_line": 502,
+    "end_line": 532
+  },
+  {
+    "id": 22,
+    "title": "KHAI BÁO LỚP PHÂN SỐ",
+    "start_line": 533,
+    "end_line": 549
+  },
+  {
+    "id": 23,
+    "title": "TÍNH TỔNG HAI ĐỐI TƯỢNG PHÂN SỐ",
+    "start_line": 550,
+    "end_line": 567
+  },
+  {
+    "id": 24,
+    "title": "SAO CHÉP TỆP TIN",
+    "start_line": 568,
+    "end_line": 580
+  },
+  {
+    "id": 25,
+    "title": "QUAY MA TRẬN",
+    "start_line": 581,
+    "end_line": 610
+  },
+  {
+    "id": 26,
+    "title": "BIẾN ĐỔI DÃY SỐ",
+    "start_line": 611,
+    "end_line": 636
+  },
+  {
+    "id": 27,
+    "title": "CỬA SỔ TRƯỢT",
+    "start_line": 637,
+    "end_line": 671
+  },
+  {
+    "id": 28,
+    "title": "ĐỔI CHỖ CHỮ SỐ",
+    "start_line": 672,
+    "end_line": 695
+  },
+  {
+    "id": 29,
+    "title": "TÍNH TỔNG CÁC SỐ TRONG XÂU",
+    "start_line": 696,
+    "end_line": 720
+  },
+  {
+    "id": 30,
+    "title": "TÁCH CHỮ SỐ",
+    "start_line": 721,
+    "end_line": 741
+  },
+  {
+    "id": 31,
+    "title": "HỢP VÀ GIAO CỦA HAI DÃY SỐ -1",
+    "start_line": 742,
+    "end_line": 768
+  },
+  {
+    "id": 32,
+    "title": "HỢP VÀ GIAO CỦA HAI DÃY SỐ -2",
+    "start_line": 769,
+    "end_line": 794
+  },
+  {
+    "id": 33,
+    "title": "SẮP XẾP XEN KẼ - 2",
+    "start_line": 795,
+    "end_line": 820
+  },
+  {
+    "id": 34,
+    "title": "DANH SÁCH SINH VIÊN - 1",
+    "start_line": 821,
+    "end_line": 855
+  },
+  {
+    "id": 35,
+    "title": "DANH SÁCH SINH VIÊN - 2",
+    "start_line": 856,
+    "end_line": 891
+  },
+  {
+    "id": 36,
+    "title": "DANH SÁCH SINH VIÊN - 3",
+    "start_line": 892,
+    "end_line": 936
+  },
+  {
+    "id": 37,
+    "title": "SẮP XẾP DANH SÁCH NHÂN VIÊN",
+    "start_line": 937,
+    "end_line": 982
+  },
+  {
+    "id": 38,
+    "title": "BẢNG ĐIỂM THÀNH PHẦN - 1",
+    "start_line": 983,
+    "end_line": 1029
+  },
+  {
+    "id": 39,
+    "title": "BẢNG ĐIỂM THÀNH PHẦN - 2",
+    "start_line": 1030,
+    "end_line": 1076
+  },
+  {
+    "id": 40,
+    "title": "TRẺ NHẤT – GIÀ NHẤT",
+    "start_line": 1077,
+    "end_line": 1103
+  },
+  {
+    "id": 41,
+    "title": "DANH SÁCH ĐỐI TƯỢNG NHÂN VIÊN",
+    "start_line": 1104,
+    "end_line": 1149
+  },
+  {
+    "id": 42,
+    "title": "SẮP XẾP SINH VIÊN THEO LỚP",
+    "start_line": 1150,
+    "end_line": 1197
+  },
+  {
+    "id": 43,
+    "title": "SẮP XẾP THEO MÃ SINH VIÊN",
+    "start_line": 1198,
+    "end_line": 1243
+  },
+  {
+    "id": 44,
+    "title": "LIỆT KÊ SINH VIÊN THEO NGÀNH",
+    "start_line": 1244,
+    "end_line": 1301
+  },
+  {
+    "id": 45,
+    "title": "TÌM KIẾM GIẢNG VIÊN",
+    "start_line": 1302,
+    "end_line": 1337
+  },
+  {
+    "id": 46,
+    "title": "DANH SÁCH DOANH NGHIỆP NHẬN SINH VIÊN THỰC TẬP - 1",
+    "start_line": 1338,
+    "end_line": 1374
+  },
+  {
+    "id": 47,
+    "title": "LOẠI BỎ 100",
+    "start_line": 1375,
+    "end_line": 1396
+  },
+  {
+    "id": 48,
+    "title": "SỐ KHÁC NHAU TRONG FILE",
+    "start_line": 1397,
+    "end_line": 1427
+  },
+  {
+    "id": 49,
+    "title": "LIỆT KÊ TỪ KHÁC NHAU",
+    "start_line": 1428,
+    "end_line": 1455
+  },
+  {
+    "id": 50,
+    "title": "HỢP VÀ GIAO CỦA HAI FILE VĂN BẢN",
+    "start_line": 1456,
+    "end_line": 1490
+  }
+]
