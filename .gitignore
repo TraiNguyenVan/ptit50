@@ -1,1 +1,29 @@
+# VS Code settings and workspace
+.vscode/
+
+# Build directory
+build/
+
+# Compiled object files
 *.o
+
+# Compiled binaries
+# Matches files like prob01, prob22, etc.
+# We ignore these but explicitly keep source and data files.
+prob[0-9]*
+!*.cpp
+!*.py
+!*.json
+!*.pdf
+!*.txt
+
+# Other common build artifacts
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# OS specific files
+.DS_Store
+Thumbs.db
