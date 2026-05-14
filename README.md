@@ -2,53 +2,53 @@
 
 This repository contains solutions for the following 50 programming problems:
 
-- **Problem 1:** TÍNH TỔNG 1 ĐẾN N
-- **Problem 2:** CHỮ HOA – CHỮ THƯỜNG
-- **Problem 3:** TÍNH TỔNG GIAI THỪA
-- **Problem 4:** CÂN BẰNG CHẴN LẺ
-- **Problem 5:** SỐ MAY MẮN
-- **Problem 6:** LIỆT KÊ SỐ NGUYÊN TỐ - 1
-- **Problem 7:** ƯỚC SỐ NGUYÊN TỐ
-- **Problem 8:** LIỆT KÊ SỐ CÓ BA ƯỚC SỐ
-- **Problem 9:** CHÊNH LỆCH NHỎ NHẤT
-- **Problem 10:** SỐ NHỎ NHẤT CHƯA XUẤT HIỆN
-- **Problem 11:** QUAY VÒNG DÃY SỐ 1
-- **Problem 12:** BIẾN ĐỔI NHỊ PHÂN
-- **Problem 13:** BIÊN CỦA MA TRẬN
-- **Problem 14:** LIỆT KÊ SỐ KHÁC NHAU
-- **Problem 15:** ĐẾM SỐ PHẦN TỬ LẶP LẠI
-- **Problem 16:** NHỎ NHẤT - LỚN NHẤT
-- **Problem 17:** ĐẦU CUỐI GIỐNG NHAU
-- **Problem 18:** LOẠI BỎ NGUYÊN ÂM
-- **Problem 19:** SẮP XẾP CHỮ SỐ
-- **Problem 20:** CẤU TRÚC THÍ SINH
-- **Problem 21:** CẤU TRÚC NHÂN VIÊN
-- **Problem 22:** KHAI BÁO LỚP PHÂN SỐ
-- **Problem 23:** TÍNH TỔNG HAI ĐỐI TƯỢNG PHÂN SỐ
-- **Problem 24:** SAO CHÉP TỆP TIN
-- **Problem 25:** QUAY MA TRẬN
-- **Problem 26:** BIẾN ĐỔI DÃY SỐ
-- **Problem 27:** CỬA SỔ TRƯỢT
-- **Problem 28:** ĐỔI CHỖ CHỮ SỐ
-- **Problem 29:** TÍNH TỔNG CÁC SỐ TRONG XÂU
-- **Problem 30:** TÁCH CHỮ SỐ
-- **Problem 31:** HỢP VÀ GIAO CỦA HAI DÃY SỐ -1
-- **Problem 32:** HỢP VÀ GIAO CỦA HAI DÃY SỐ -2
-- **Problem 33:** SẮP XẾP XEN KẼ - 2
-- **Problem 34:** DANH SÁCH SINH VIÊN - 1
-- **Problem 35:** DANH SÁCH SINH VIÊN - 2
-- **Problem 36:** DANH SÁCH SINH VIÊN - 3
-- **Problem 37:** SẮP XẾP DANH SÁCH NHÂN VIÊN
-- **Problem 38:** BẢNG ĐIỂM THÀNH PHẦN - 1
-- **Problem 39:** BẢNG ĐIỂM THÀNH PHẦN - 2
-- **Problem 40:** TRẺ NHẤT – GIÀ NHẤT
-- **Problem 41:** DANH SÁCH ĐỐI TƯỢNG NHÂN VIÊN
-- **Problem 42:** SẮP XẾP SINH VIÊN THEO LỚP
-- **Problem 43:** SẮP XẾP THEO MÃ SINH VIÊN
-- **Problem 44:** LIỆT KÊ SINH VIÊN THEO NGÀNH
-- **Problem 45:** TÌM KIẾM GIẢNG VIÊN
-- **Problem 46:** DANH SÁCH DOANH NGHIỆP NHẬN SINH VIÊN THỰC TẬP - 1
-- **Problem 47:** LOẠI BỎ 100
-- **Problem 48:** SỐ KHÁC NHAU TRONG FILE
-- **Problem 49:** LIỆT KÊ TỪ KHÁC NHAU
-- **Problem 50:** HỢP VÀ GIAO CỦA HAI FILE VĂN BẢN
+- **Problem 1:** [TÍNH TỔNG 1 ĐẾN N](prob01.cpp)
+- **Problem 2:** [CHỮ HOA – CHỮ THƯỜNG](prob02.cpp)
+- **Problem 3:** [TÍNH TỔNG GIAI THỪA](prob03.cpp)
+- **Problem 4:** [CÂN BẰNG CHẴN LẺ](prob04.cpp)
+- **Problem 5:** [SỐ MAY MẮN](prob05.cpp)
+- **Problem 6:** [LIỆT KÊ SỐ NGUYÊN TỐ - 1](prob06.cpp)
+- **Problem 7:** [ƯỚC SỐ NGUYÊN TỐ](prob07.cpp)
+- **Problem 8:** [LIỆT KÊ SỐ CÓ BA ƯỚC SỐ](prob08.cpp)
+- **Problem 9:** [CHÊNH LỆCH NHỎ NHẤT](prob09.cpp)
+- **Problem 10:** [SỐ NHỎ NHẤT CHƯA XUẤT HIỆN](prob10.cpp)
+- **Problem 11:** [QUAY VÒNG DÃY SỐ 1](prob11.cpp)
+- **Problem 12:** [BIẾN ĐỔI NHỊ PHÂN](prob12.cpp)
+- **Problem 13:** [BIÊN CỦA MA TRẬN](prob13.cpp)
+- **Problem 14:** [LIỆT KÊ SỐ KHÁC NHAU](prob14.cpp)
+- **Problem 15:** [ĐẾM SỐ PHẦN TỬ LẶP LẠI](prob15.cpp)
+- **Problem 16:** [NHỎ NHẤT - LỚN NHẤT](prob16.cpp)
+- **Problem 17:** [ĐẦU CUỐI GIỐNG NHAU](prob17.cpp)
+- **Problem 18:** [LOẠI BỎ NGUYÊN ÂM](prob18.cpp)
+- **Problem 19:** [SẮP XẾP CHỮ SỐ](prob19.cpp)
+- **Problem 20:** [CẤU TRÚC THÍ SINH](prob20.cpp)
+- **Problem 21:** [CẤU TRÚC NHÂN VIÊN](prob21.cpp)
+- **Problem 22:** [KHAI BÁO LỚP PHÂN SỐ](prob22.cpp)
+- **Problem 23:** [TÍNH TỔNG HAI ĐỐI TƯỢNG PHÂN SỐ](prob23.cpp)
+- **Problem 24:** [SAO CHÉP TỆP TIN](prob24.cpp)
+- **Problem 25:** [QUAY MA TRẬN](prob25.cpp)
+- **Problem 26:** [BIẾN ĐỔI DÃY SỐ](prob26.cpp)
+- **Problem 27:** [CỬA SỔ TRƯỢT](prob27.cpp)
+- **Problem 28:** [ĐỔI CHỖ CHỮ SỐ](prob28.cpp)
+- **Problem 29:** [TÍNH TỔNG CÁC SỐ TRONG XÂU](prob29.cpp)
+- **Problem 30:** [TÁCH CHỮ SỐ](prob30.cpp)
+- **Problem 31:** [HỢP VÀ GIAO CỦA HAI DÃY SỐ -1](prob31.cpp)
+- **Problem 32:** [HỢP VÀ GIAO CỦA HAI DÃY SỐ -2](prob32.cpp)
+- **Problem 33:** [SẮP XẾP XEN KẼ - 2](prob33.cpp)
+- **Problem 34:** [DANH SÁCH SINH VIÊN - 1](prob34.cpp)
+- **Problem 35:** [DANH SÁCH SINH VIÊN - 2](prob35.cpp)
+- **Problem 36:** [DANH SÁCH SINH VIÊN - 3](prob36.cpp)
+- **Problem 37:** [SẮP XẾP DANH SÁCH NHÂN VIÊN](prob37.cpp)
+- **Problem 38:** [BẢNG ĐIỂM THÀNH PHẦN - 1](prob38.cpp)
+- **Problem 39:** [BẢNG ĐIỂM THÀNH PHẦN - 2](prob39.cpp)
+- **Problem 40:** [TRẺ NHẤT – GIÀ NHẤT](prob40.cpp)
+- **Problem 41:** [DANH SÁCH ĐỐI TƯỢNG NHÂN VIÊN](prob41.cpp)
+- **Problem 42:** [SẮP XẾP SINH VIÊN THEO LỚP](prob42.cpp)
+- **Problem 43:** [SẮP XẾP THEO MÃ SINH VIÊN](prob43.cpp)
+- **Problem 44:** [LIỆT KÊ SINH VIÊN THEO NGÀNH](prob44.cpp)
+- **Problem 45:** [TÌM KIẾM GIẢNG VIÊN](prob45.cpp)
+- **Problem 46:** [DANH SÁCH DOANH NGHIỆP NHẬN SINH VIÊN THỰC TẬP - 1](prob46.cpp)
+- **Problem 47:** [LOẠI BỎ 100](prob47.cpp)
+- **Problem 48:** [SỐ KHÁC NHAU TRONG FILE](prob48.cpp)
+- **Problem 49:** [LIỆT KÊ TỪ KHÁC NHAU](prob49.cpp)
+- **Problem 50:** [HỢP VÀ GIAO CỦA HAI FILE VĂN BẢN](prob50.cpp)
