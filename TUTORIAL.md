@@ -15,7 +15,7 @@ Each `.cpp` file in `solutions/` is a standalone solution to one problem. There 
 ## Prerequisites
 
 - A C++ compiler (`g++` recommended)
-- `make` (optional, for batch compilation)
+- **CMake** ≥ 3.10 (recommended) — for batch compilation
 
 ## Compiling and Running
 
@@ -44,7 +44,23 @@ echo -e "2\n10\n20" > input.txt
 ./prob01 < input.txt
 ```
 
-### Compile all problems at once
+### Compile all problems with CMake (recommended)
+
+```bash
+mkdir build && cd build
+cmake ..
+cmake --build .
+```
+
+This compiles all 50 solutions at once. Binaries are placed inside `build/` — no clutter.
+
+### Compile a single target with CMake
+
+```bash
+cmake --build . --target prob01
+```
+
+### Compile all problems manually (no CMake)
 
 ```bash
 for f in solutions/prob*.cpp; do

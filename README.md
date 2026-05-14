@@ -14,7 +14,7 @@ This repository contains my solutions to PTIT's C++ practice problem set. Each s
 ## Prerequisites
 
 - **C++ compiler** — `g++` (recommended) or `clang++`
-- **Make** (optional) — for batch compilation
+- **CMake** ≥ 3.10 (recommended) — for batch compilation
 
 ## Structure
 
@@ -40,6 +40,15 @@ This repository contains my solutions to PTIT's C++ practice problem set. Each s
 | File I/O | 24, 48, 49, 50 |
 
 ## Quick Start
+
+```bash
+mkdir build && cd build
+cmake ..
+cmake --build .
+./prob01
+```
+
+Or compile a single file manually:
 
 ```bash
 g++ -std=c++11 -o prob01 solutions/prob01.cpp && ./prob01

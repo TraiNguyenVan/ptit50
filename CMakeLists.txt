@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.10)
+project(PTIT50 CXX)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+file(GLOB solutions solutions/prob*.cpp)
+foreach(src ${solutions})
+  get_filename_component(name ${src} NAME_WE)
+  add_executable(${name} ${src})
+endforeach()
