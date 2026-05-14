@@ -5,7 +5,6 @@
 ```
 .
 ├── solutions/       # C++ source files (prob01.cpp – prob50.cpp)
-├── scripts/         # Python utility scripts for extraction
 ├── docs/            # Problem statements, indexes, reference files
 ├── TUTORIAL.md      # This file
 └── README.md        # Problem list with links
@@ -90,11 +89,3 @@ Before running a solution:
 | File I/O | 24, 48–50 |
 
 Problems roughly increase in difficulty. Later problems combine multiple concepts (e.g., structs + sorting, file I/O + sets).
-
-## Python Scripts
-
-The `scripts/` directory contains helper scripts used to extract and organize the problem data:
-
-- `extract.py` — extracts problem text from the PDF
-- `extract_json.py` — converts extracted text to structured JSON
-- `extract_by_index.py` — extracts specific problems by index

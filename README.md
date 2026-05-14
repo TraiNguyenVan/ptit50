@@ -5,7 +5,6 @@
 ```
 .
 ├── solutions/    # prob01.cpp – prob50.cpp
-├── scripts/      # Python utilities
 ├── docs/         # Problem statements and reference files
 ├── TUTORIAL.md   # Build, run, and learning guide
 └── README.md
