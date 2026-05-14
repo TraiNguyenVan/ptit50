@@ -2,16 +2,17 @@
 #include <set>
 using namespace std;
 int main() {
-    int n;
-    if (cin >> n) {
-        set<int> s;
-        for (int i = 0; i < n; i++) {
-            int x;
-            cin >> x;
-            s.insert(x);
-        }
-        for (int x : s) cout << x << " ";
-        cout << "\n";
+  int n;
+  if (cin >> n) {
+    set<int> s;
+    for (int i = 0; i < n; i++) {
+      int x;
+      cin >> x;
+      s.insert(x);
     }
-    return 0;
+    for (int x : s)
+      cout << x << " ";
+    cout << "\n";
+  }
+  return 0;
 }

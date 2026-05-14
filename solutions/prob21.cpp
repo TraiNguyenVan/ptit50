@@ -12,13 +12,13 @@ struct NhanVien {
   string date;
 };
 
-void clean(string &str) {
+void clean(string& str) {
   while (!str.empty() && (str.back() == '\r' || str.back() == '\n')) {
     str.pop_back();
   }
 }
 
-void nhap(NhanVien &a) {
+void nhap(NhanVien& a) {
   getline(cin, a.name);
   clean(a.name);
   getline(cin, a.gender);
@@ -33,9 +33,9 @@ void nhap(NhanVien &a) {
   clean(a.date);
 }
 
-void in(NhanVien &a) {
-  cout << "00001 " << a.name << " " << a.gender << " " << a.dob << " "
-       << a.address << " " << a.tax << " " << a.date;
+void in(NhanVien& a) {
+  cout << "00001 " << a.name << " " << a.gender << " " << a.dob << " " << a.address << " " << a.tax
+       << " " << a.date;
 }
 
 int main() {

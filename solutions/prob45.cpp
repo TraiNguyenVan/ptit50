@@ -21,7 +21,7 @@ string get_ma_bm(string bo_mon) {
 }
 
 string to_lower(string s) {
-  for (char &c : s)
+  for (char& c : s)
     c = tolower(c);
   return s;
 }
