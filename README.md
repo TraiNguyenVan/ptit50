@@ -56,6 +56,8 @@ g++ -std=c++11 -o prob01 solutions/prob01.cpp && ./prob01
 
 See [TUTORIAL.md](TUTORIAL.md) for detailed compilation and learning instructions.
 
+![Demo](docs/demo.png)
+
 ## Author
 
 **Nguyen Van Trai** — PTIT
