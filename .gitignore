@@ -15,6 +15,9 @@ prob[0-9]*
 *.out
 *.app
 
+# Scripts (local only)
+scripts/
+
 # Python cache
 __pycache__/
 *.pyc
