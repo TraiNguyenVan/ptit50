@@ -61,7 +61,6 @@ See [TUTORIAL.md](TUTORIAL.md) for detailed compilation and learning instruction
 **Nguyen Van Trai** — PTIT
 - **Student ID:** N25DECE085
 - **Class:** E25CQCE02-N
-- **Department:** LCĐ Khoa Công nghệ thông tin
 
 ## License
 
